@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wall -Wextra -pedantic -O3 -DNDEBUG  -shared -Wl,-soname,libggwave.so -o libggwave.so CMakeFiles/ggwave.dir/ggwave.cpp.o CMakeFiles/ggwave.dir/resampler.cpp.o  -Wl,-rpath,:::::::::::::: -ldl 

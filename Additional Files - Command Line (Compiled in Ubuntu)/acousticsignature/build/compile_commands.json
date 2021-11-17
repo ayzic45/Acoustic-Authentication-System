@@ -1,0 +1,157 @@
+[
+{
+  "directory": "/home/professor/ggwave/build/src",
+  "command": "/usr/bin/c++  -DGGWAVE_SHARED -Dggwave_EXPORTS -I/home/professor/ggwave/src/. -I/home/professor/ggwave/src/../include   -Wall -Wextra -pedantic -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/ggwave.dir/ggwave.cpp.o -c /home/professor/ggwave/src/ggwave.cpp",
+  "file": "/home/professor/ggwave/src/ggwave.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/src",
+  "command": "/usr/bin/c++  -DGGWAVE_SHARED -Dggwave_EXPORTS -I/home/professor/ggwave/src/. -I/home/professor/ggwave/src/../include   -Wall -Wextra -pedantic -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/ggwave.dir/resampler.cpp.o -c /home/professor/ggwave/src/resampler.cpp",
+  "file": "/home/professor/ggwave/src/resampler.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/tests",
+  "command": "/usr/bin/c++  -DGGWAVE_SHARED -I/home/professor/ggwave/src/. -I/home/professor/ggwave/src/../include   -Wall -Wextra -pedantic -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/test-ggwave-cpp.dir/test-ggwave.cpp.o -c /home/professor/ggwave/tests/test-ggwave.cpp",
+  "file": "/home/professor/ggwave/tests/test-ggwave.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/tests",
+  "command": "/usr/bin/cc -DGGWAVE_SHARED -I/home/professor/ggwave/src/. -I/home/professor/ggwave/src/../include   -Wall -Wextra -O3 -DNDEBUG   -o CMakeFiles/test-ggwave-c.dir/test-ggwave.c.o   -c /home/professor/ggwave/tests/test-ggwave.c",
+  "file": "/home/professor/ggwave/tests/test-ggwave.c"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples",
+  "command": "/usr/bin/c++  -DGGWAVE_SHARED -DIMGUI_IMPL_OPENGL_LOADER_GL3W=1 -Dggwave_common_sdl2_EXPORTS -I/usr/include/SDL2 -I/home/professor/ggwave/src/. -I/home/professor/ggwave/src/../include -I/home/professor/ggwave/examples/third-party/imgui/imgui/examples/libs/gl3w -I/home/professor/ggwave/examples/third-party/imgui/.   -Wall -Wextra -pedantic -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/ggwave-common-sdl2.dir/ggwave-common-sdl2.cpp.o -c /home/professor/ggwave/examples/ggwave-common-sdl2.cpp",
+  "file": "/home/professor/ggwave/examples/ggwave-common-sdl2.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples",
+  "command": "/usr/bin/c++  -Dggwave_common_EXPORTS   -Wall -Wextra -pedantic -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/ggwave-common.dir/ggwave-common.cpp.o -c /home/professor/ggwave/examples/ggwave-common.cpp",
+  "file": "/home/professor/ggwave/examples/ggwave-common.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/third-party/imgui",
+  "command": "/usr/bin/cc -DIMGUI_IMPL_OPENGL_LOADER_GL3W=1 -Dimgui_sdl2_EXPORTS -I/home/professor/ggwave/examples/third-party/imgui/imgui/examples/libs/gl3w -I/usr/include/SDL2 -I/home/professor/ggwave/examples/third-party/imgui/imgui -I/home/professor/ggwave/examples/third-party/imgui/imgui-extra -I/home/professor/ggwave/examples/third-party/imgui/.   -Wall -Wextra -O3 -DNDEBUG -fPIC   -o CMakeFiles/imgui-sdl2.dir/imgui/examples/libs/gl3w/GL/gl3w.c.o   -c /home/professor/ggwave/examples/third-party/imgui/imgui/examples/libs/gl3w/GL/gl3w.c",
+  "file": "/home/professor/ggwave/examples/third-party/imgui/imgui/examples/libs/gl3w/GL/gl3w.c"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/third-party/imgui",
+  "command": "/usr/bin/c++  -DIMGUI_IMPL_OPENGL_LOADER_GL3W=1 -Dimgui_sdl2_EXPORTS -I/home/professor/ggwave/examples/third-party/imgui/imgui/examples/libs/gl3w -I/usr/include/SDL2 -I/home/professor/ggwave/examples/third-party/imgui/imgui -I/home/professor/ggwave/examples/third-party/imgui/imgui-extra -I/home/professor/ggwave/examples/third-party/imgui/.   -Wall -Wextra -pedantic -Wall -Wextra -pedantic -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/imgui-sdl2.dir/imgui-extra/imgui_impl.cpp.o -c /home/professor/ggwave/examples/third-party/imgui/imgui-extra/imgui_impl.cpp",
+  "file": "/home/professor/ggwave/examples/third-party/imgui/imgui-extra/imgui_impl.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/third-party/imgui",
+  "command": "/usr/bin/c++  -DIMGUI_IMPL_OPENGL_LOADER_GL3W=1 -Dimgui_sdl2_EXPORTS -I/home/professor/ggwave/examples/third-party/imgui/imgui/examples/libs/gl3w -I/usr/include/SDL2 -I/home/professor/ggwave/examples/third-party/imgui/imgui -I/home/professor/ggwave/examples/third-party/imgui/imgui-extra -I/home/professor/ggwave/examples/third-party/imgui/.   -Wall -Wextra -pedantic -Wall -Wextra -pedantic -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/imgui-sdl2.dir/imgui-extra/imgui_impl_sdl.cpp.o -c /home/professor/ggwave/examples/third-party/imgui/imgui-extra/imgui_impl_sdl.cpp",
+  "file": "/home/professor/ggwave/examples/third-party/imgui/imgui-extra/imgui_impl_sdl.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/third-party/imgui",
+  "command": "/usr/bin/c++  -DIMGUI_IMPL_OPENGL_LOADER_GL3W=1 -Dimgui_sdl2_EXPORTS -I/home/professor/ggwave/examples/third-party/imgui/imgui/examples/libs/gl3w -I/usr/include/SDL2 -I/home/professor/ggwave/examples/third-party/imgui/imgui -I/home/professor/ggwave/examples/third-party/imgui/imgui-extra -I/home/professor/ggwave/examples/third-party/imgui/.   -Wall -Wextra -pedantic -Wall -Wextra -pedantic -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/imgui-sdl2.dir/imgui-extra/imgui_impl_opengl3.cpp.o -c /home/professor/ggwave/examples/third-party/imgui/imgui-extra/imgui_impl_opengl3.cpp",
+  "file": "/home/professor/ggwave/examples/third-party/imgui/imgui-extra/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/third-party/imgui",
+  "command": "/usr/bin/c++  -Dimgui_EXPORTS -I/home/professor/ggwave/examples/third-party/imgui/imgui   -Wall -Wextra -pedantic -Wall -Wextra -pedantic -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/imgui.dir/imgui/imgui.cpp.o -c /home/professor/ggwave/examples/third-party/imgui/imgui/imgui.cpp",
+  "file": "/home/professor/ggwave/examples/third-party/imgui/imgui/imgui.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/third-party/imgui",
+  "command": "/usr/bin/c++  -Dimgui_EXPORTS -I/home/professor/ggwave/examples/third-party/imgui/imgui   -Wall -Wextra -pedantic -Wall -Wextra -pedantic -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/imgui.dir/imgui/imgui_draw.cpp.o -c /home/professor/ggwave/examples/third-party/imgui/imgui/imgui_draw.cpp",
+  "file": "/home/professor/ggwave/examples/third-party/imgui/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/third-party/imgui",
+  "command": "/usr/bin/c++  -Dimgui_EXPORTS -I/home/professor/ggwave/examples/third-party/imgui/imgui   -Wall -Wextra -pedantic -Wall -Wextra -pedantic -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/imgui.dir/imgui/imgui_demo.cpp.o -c /home/professor/ggwave/examples/third-party/imgui/imgui/imgui_demo.cpp",
+  "file": "/home/professor/ggwave/examples/third-party/imgui/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/third-party/imgui",
+  "command": "/usr/bin/c++  -Dimgui_EXPORTS -I/home/professor/ggwave/examples/third-party/imgui/imgui   -Wall -Wextra -pedantic -Wall -Wextra -pedantic -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/imgui.dir/imgui/imgui_widgets.cpp.o -c /home/professor/ggwave/examples/third-party/imgui/imgui/imgui_widgets.cpp",
+  "file": "/home/professor/ggwave/examples/third-party/imgui/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/third-party/ggsock/src",
+  "command": "/usr/bin/c++  -Dggsock_EXPORTS -I/home/professor/ggwave/examples/third-party/ggsock/src/. -I/home/professor/ggwave/examples/third-party/ggsock/src/../include   -Wall -Wextra -pedantic -Wall -Wextra -pedantic -O3 -DNDEBUG -fPIC   -std=gnu++14 -o CMakeFiles/ggsock.dir/communicator.cpp.o -c /home/professor/ggwave/examples/third-party/ggsock/src/communicator.cpp",
+  "file": "/home/professor/ggwave/examples/third-party/ggsock/src/communicator.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/third-party/ggsock/src",
+  "command": "/usr/bin/c++  -Dggsock_EXPORTS -I/home/professor/ggwave/examples/third-party/ggsock/src/. -I/home/professor/ggwave/examples/third-party/ggsock/src/../include   -Wall -Wextra -pedantic -Wall -Wextra -pedantic -O3 -DNDEBUG -fPIC   -std=gnu++14 -o CMakeFiles/ggsock.dir/file-server.cpp.o -c /home/professor/ggwave/examples/third-party/ggsock/src/file-server.cpp",
+  "file": "/home/professor/ggwave/examples/third-party/ggsock/src/file-server.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/third-party/ggsock/src",
+  "command": "/usr/bin/c++  -Dggsock_EXPORTS -I/home/professor/ggwave/examples/third-party/ggsock/src/. -I/home/professor/ggwave/examples/third-party/ggsock/src/../include   -Wall -Wextra -pedantic -Wall -Wextra -pedantic -O3 -DNDEBUG -fPIC   -std=gnu++14 -o CMakeFiles/ggsock.dir/serialization.cpp.o -c /home/professor/ggwave/examples/third-party/ggsock/src/serialization.cpp",
+  "file": "/home/professor/ggwave/examples/third-party/ggsock/src/serialization.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/ggwave-to-file",
+  "command": "/usr/bin/c++  -DGGWAVE_SHARED -I/home/professor/ggwave/examples/ggwave-to-file/.. -I/home/professor/ggwave/src/. -I/home/professor/ggwave/src/../include   -Wall -Wextra -pedantic -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/ggwave-to-file.dir/main.cpp.o -c /home/professor/ggwave/examples/ggwave-to-file/main.cpp",
+  "file": "/home/professor/ggwave/examples/ggwave-to-file/main.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/r2t2",
+  "command": "/usr/bin/c++   -I/home/professor/ggwave/examples/r2t2/.. -I/home/professor/ggwave/examples/r2t2/ggwave-mod/include -I/home/professor/ggwave/examples/r2t2/ggwave-mod/src -I/usr/include/SDL2   -Wall -Wextra -pedantic -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/r2t2-rx.dir/r2t2-rx.cpp.o -c /home/professor/ggwave/examples/r2t2/r2t2-rx.cpp",
+  "file": "/home/professor/ggwave/examples/r2t2/r2t2-rx.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/r2t2",
+  "command": "/usr/bin/c++   -I/home/professor/ggwave/examples/r2t2/.. -I/home/professor/ggwave/examples/r2t2/ggwave-mod/include -I/home/professor/ggwave/examples/r2t2/ggwave-mod/src -I/usr/include/SDL2   -Wall -Wextra -pedantic -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/r2t2-rx.dir/ggwave-mod/src/ggwave.cpp.o -c /home/professor/ggwave/examples/r2t2/ggwave-mod/src/ggwave.cpp",
+  "file": "/home/professor/ggwave/examples/r2t2/ggwave-mod/src/ggwave.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/r2t2",
+  "command": "/usr/bin/c++   -I/home/professor/ggwave/examples/r2t2/.. -I/home/professor/ggwave/examples/r2t2/ggwave-mod/include -I/home/professor/ggwave/examples/r2t2/ggwave-mod/src -I/usr/include/SDL2   -Wall -Wextra -pedantic -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/r2t2-rx.dir/ggwave-mod/src/resampler.cpp.o -c /home/professor/ggwave/examples/r2t2/ggwave-mod/src/resampler.cpp",
+  "file": "/home/professor/ggwave/examples/r2t2/ggwave-mod/src/resampler.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/r2t2",
+  "command": "/usr/bin/c++   -I/home/professor/ggwave/examples/r2t2/.. -I/home/professor/ggwave/examples/r2t2/ggwave-mod/include -I/home/professor/ggwave/examples/r2t2/ggwave-mod/src   -Wall -Wextra -pedantic -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/r2t2.dir/main.cpp.o -c /home/professor/ggwave/examples/r2t2/main.cpp",
+  "file": "/home/professor/ggwave/examples/r2t2/main.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/r2t2",
+  "command": "/usr/bin/c++   -I/home/professor/ggwave/examples/r2t2/.. -I/home/professor/ggwave/examples/r2t2/ggwave-mod/include -I/home/professor/ggwave/examples/r2t2/ggwave-mod/src   -Wall -Wextra -pedantic -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/r2t2.dir/ggwave-mod/src/ggwave.cpp.o -c /home/professor/ggwave/examples/r2t2/ggwave-mod/src/ggwave.cpp",
+  "file": "/home/professor/ggwave/examples/r2t2/ggwave-mod/src/ggwave.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/r2t2",
+  "command": "/usr/bin/c++   -I/home/professor/ggwave/examples/r2t2/.. -I/home/professor/ggwave/examples/r2t2/ggwave-mod/include -I/home/professor/ggwave/examples/r2t2/ggwave-mod/src   -Wall -Wextra -pedantic -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/r2t2.dir/ggwave-mod/src/resampler.cpp.o -c /home/professor/ggwave/examples/r2t2/ggwave-mod/src/resampler.cpp",
+  "file": "/home/professor/ggwave/examples/r2t2/ggwave-mod/src/resampler.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/ggwave-rx",
+  "command": "/usr/bin/c++  -DGGWAVE_SHARED -I/home/professor/ggwave/examples/ggwave-rx/.. -I/usr/include/SDL2 -I/home/professor/ggwave/src/. -I/home/professor/ggwave/src/../include   -Wall -Wextra -pedantic -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/ggwave-rx.dir/main.cpp.o -c /home/professor/ggwave/examples/ggwave-rx/main.cpp",
+  "file": "/home/professor/ggwave/examples/ggwave-rx/main.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/ggwave-cli",
+  "command": "/usr/bin/c++  -DGGWAVE_SHARED -I/home/professor/ggwave/examples/ggwave-cli/.. -I/usr/include/SDL2 -I/home/professor/ggwave/src/. -I/home/professor/ggwave/src/../include   -Wall -Wextra -pedantic -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/ggwave-cli.dir/main.cpp.o -c /home/professor/ggwave/examples/ggwave-cli/main.cpp",
+  "file": "/home/professor/ggwave/examples/ggwave-cli/main.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/waver",
+  "command": "/usr/bin/c++  -DGGWAVE_SHARED -DIMGUI_IMPL_OPENGL_LOADER_GL3W=1 -I/home/professor/ggwave/examples/waver/.. -I/usr/include/SDL2 -I/home/professor/ggwave/src/. -I/home/professor/ggwave/src/../include -I/home/professor/ggwave/examples/third-party/ggsock/src/. -I/home/professor/ggwave/examples/third-party/ggsock/src/../include -I/home/professor/ggwave/examples/third-party/imgui/imgui/examples/libs/gl3w -I/home/professor/ggwave/examples/third-party/imgui/.   -Wall -Wextra -pedantic -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/waver.dir/main.cpp.o -c /home/professor/ggwave/examples/waver/main.cpp",
+  "file": "/home/professor/ggwave/examples/waver/main.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/waver",
+  "command": "/usr/bin/c++  -DGGWAVE_SHARED -DIMGUI_IMPL_OPENGL_LOADER_GL3W=1 -I/home/professor/ggwave/examples/waver/.. -I/usr/include/SDL2 -I/home/professor/ggwave/src/. -I/home/professor/ggwave/src/../include -I/home/professor/ggwave/examples/third-party/ggsock/src/. -I/home/professor/ggwave/examples/third-party/ggsock/src/../include -I/home/professor/ggwave/examples/third-party/imgui/imgui/examples/libs/gl3w -I/home/professor/ggwave/examples/third-party/imgui/.   -Wall -Wextra -pedantic -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/waver.dir/common.cpp.o -c /home/professor/ggwave/examples/waver/common.cpp",
+  "file": "/home/professor/ggwave/examples/waver/common.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/waver",
+  "command": "/usr/bin/c++  -DGGWAVE_SHARED -DIMGUI_IMPL_OPENGL_LOADER_GL3W=1 -I/home/professor/ggwave/examples/waver/.. -I/usr/include/SDL2 -I/home/professor/ggwave/src/. -I/home/professor/ggwave/src/../include -I/home/professor/ggwave/examples/third-party/ggsock/src/. -I/home/professor/ggwave/examples/third-party/ggsock/src/../include -I/home/professor/ggwave/examples/third-party/imgui/imgui/examples/libs/gl3w -I/home/professor/ggwave/examples/third-party/imgui/.   -Wall -Wextra -pedantic -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/waver.dir/interface.cpp.o -c /home/professor/ggwave/examples/waver/interface.cpp",
+  "file": "/home/professor/ggwave/examples/waver/interface.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/waver",
+  "command": "/usr/bin/c++  -DGGWAVE_SHARED -DIMGUI_IMPL_OPENGL_LOADER_GL3W=1 -I/home/professor/ggwave/examples/waver/.. -I/usr/include/SDL2 -I/home/professor/ggwave/src/. -I/home/professor/ggwave/src/../include -I/home/professor/ggwave/examples/third-party/ggsock/src/. -I/home/professor/ggwave/examples/third-party/ggsock/src/../include -I/home/professor/ggwave/examples/third-party/imgui/imgui/examples/libs/gl3w -I/home/professor/ggwave/examples/third-party/imgui/.   -Wall -Wextra -pedantic -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/waver.dir/interface-unix.cpp.o -c /home/professor/ggwave/examples/waver/interface-unix.cpp",
+  "file": "/home/professor/ggwave/examples/waver/interface-unix.cpp"
+},
+{
+  "directory": "/home/professor/ggwave/build/examples/spectrogram",
+  "command": "/usr/bin/c++  -DGGWAVE_SHARED -DIMGUI_IMPL_OPENGL_LOADER_GL3W=1 -I/home/professor/ggwave/examples/spectrogram/.. -I/usr/include/SDL2 -I/home/professor/ggwave/src/. -I/home/professor/ggwave/src/../include -I/home/professor/ggwave/examples/third-party/imgui/imgui/examples/libs/gl3w -I/home/professor/ggwave/examples/third-party/imgui/.   -Wall -Wextra -pedantic -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/spectrogram.dir/main.cpp.o -c /home/professor/ggwave/examples/spectrogram/main.cpp",
+  "file": "/home/professor/ggwave/examples/spectrogram/main.cpp"
+}
+]
