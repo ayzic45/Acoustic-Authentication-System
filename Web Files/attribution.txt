@@ -1,0 +1,22 @@
+1. All images used in this proejects were downloaded from PIXABAY.COM website for free, see link below:
+
+https://pixabay.com/
+
+i.e https://pixabay.com/users/bsdrouin-5016447/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2402637">Bethany Drouin</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2402637
+
+
+2. All icons were downloaded from the following sites:
+a. https://www.flaticon.com/
+b. https://icons8.com/
+
+
+3. Home page templetes from the following site:
+http://www.tooplate.com/view/2102-constructive
+
+4. The CCS, theme used in some pages, were downloaded from the popular front-end-framework known as Bootrap:
+
+https://getbootstrap.com/
+ 
+
+Summary: 
+The aim of the project was to develop the authentication systems, that uses sound signal for second layer security, hence the focus is in the system design, not the website, or graphics designs. hence using the available resources if any, to fulfill your goal. i.e creating a new function to velidate the email address instead s using the PHP available built in function to validate email-"Ayanda Mdluli, 2021"
